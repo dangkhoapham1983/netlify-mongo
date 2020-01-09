@@ -14,6 +14,8 @@ export default class App extends Component {
         <p>https://khoademo.netlify.com/</p>
         <p>http://khoa-mongodb.surge.sh/</p>
         <p>https://github.com/dangkhoapham1983/contentfulandgatsby</p>
+        <p>https://mongodbkhoa.netlify.com/</p>
+        <p>https://khoademoapi.herokuapp.com/products/getall</p>
 
         <h1>Create Products Demo with Mongo DB</h1>
 
